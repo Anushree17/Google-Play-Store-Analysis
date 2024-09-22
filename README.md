@@ -30,7 +30,7 @@
 <li>The top content rating was "everyone"</li>
   <li>Size and rating has positive correlation suggesting that larger apps have better rating however increase in pricing does not have any effect on rating of the app</li>
   <li>The average rating of apps related to events category was greater</li>
-  <li>TMore than 50% of the data was dominated by free apps</li>
+  <li>More than 50% of the data was dominated by free apps</li>
   <li>Medical category had greater prices in paid apps</li>
 <li>There was negative correlation between prices and installs of paid apps</li>
   <li>The number of installs was significantly different for free and paid apps</li>
