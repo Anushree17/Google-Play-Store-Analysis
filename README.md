@@ -25,7 +25,7 @@
 <ul>
   <li>Average Rating per Category</li>
   <li>Number of Reviews, Number of Installs, Category</li>
-  <li>ype (Paid/Free), Price, Number of Installs, Rating, Genre</li>
+  <li>Type (Paid/Free), Price, Number of Installs, Rating, Genre</li>
 </ul>
 
 <h2>Key Business Insights</h2>
