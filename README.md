@@ -24,13 +24,13 @@
 <h2>Key Business Insights</h2>
 <ul>
 <li>There were more number of reviews than the installs suggesting that some user have reviews apps without even installing them</li>
-<li>Around 15 apps were priced abover 200 dollars</li>
+<li>Around 15 apps were priced abover 200 dollars,out of which most of them were of Lifestyle Category</li>
 <li>Top 5% of reviews were more than 1 million</li>
-<li>The average rating was 4.19 and it was more skewed towards left</li>
-<li>The top content rating was "everyone"</li>
+<li>The average rating was <b>4.19</b> and it was more skewed towards left</li>
+<li>The top content rating was "Everyone" which had a count of <b>7309</b></li>
   <li>Size and rating has positive correlation suggesting that larger apps have better rating however increase in pricing does not have any effect on rating of the app</li>
-  <li>The average rating of apps related to events category was greater</li>
-  <li>More than 50% of the data was dominated by free apps</li>
+  <li>The average rating of apps related to "Events" Category was highest</li>
+  <li>More than <b>50%</b> of the data was dominated by free apps</li>
   <li>Medical category had greater prices in paid apps</li>
 <li>There was negative correlation between prices and installs of paid apps</li>
   <li>The number of installs was significantly different for free and paid apps</li>
