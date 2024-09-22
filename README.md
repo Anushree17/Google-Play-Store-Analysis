@@ -21,6 +21,13 @@
   <li>Seaborn</li>
 </ul>
 
+<h2>Key Metrics Used</h2>
+<ul>
+  <li>Average Rating per Category</li>
+  <li>Number of Reviews, Number of Installs, Category</li>
+  <li>ype (Paid/Free), Price, Number of Installs, Rating, Genre</li>
+</ul>
+
 <h2>Key Business Insights</h2>
 <ul>
 <li>There were more number of reviews than the installs suggesting that some user have reviews apps without even installing them</li>
