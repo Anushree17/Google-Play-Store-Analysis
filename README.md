@@ -43,6 +43,24 @@
   <li>The number of installs was significantly different for free and paid apps</li>
   <li>Action was the most popular genre according to the number of installs</li>
 </ul>
+<h2>Models Used</h2>
+<ul>
+  <li>Linear Regression</li>
+  <li>Decision Tree Regressor</li>
+  <li>Random Forest Regressor</li>
+  <li>Support Vector Regressor</li>
+  <li>Gradient Boosting</li>
+  <li>Adaptive Boosting</li>
+</ul>
+<H2>Evaluation Metrics Used</H2>
+<ul>
+  <li>R2 Score</li>
+  <li>Mean Squared Error</li>
+  <li>Mean Absolute Error</li>
+
+  </ul>
+<h2>Conclusion</h2>
+<p>Random Forest Regressor gave the best R2 score which was <b>0.18</b> followed by Gradient Boosting Regressor with an R2 score of <b>0.14</b></p>
   
 
 
